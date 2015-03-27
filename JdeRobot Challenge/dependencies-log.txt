@@ -1,0 +1,297 @@
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install build-essential libtool cmake g++ gcc
+[sudo] password for ishitva: 
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+build-essential is already the newest version.
+cmake is already the newest version.
+g++ is already the newest version.
+gcc is already the newest version.
+libtool is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install freeglut3 freeglut3-dev libgl1-mesa-dev libglu1-mesa
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+freeglut3 is already the newest version.
+freeglut3-dev is already the newest version.
+libglu1-mesa is already the newest version.
+libgl1-mesa-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgtk2.0-0 libgtk2.0-bin libgtk2.0-cil libgtk2.0-common libgtk2.0-dev libgtkgl2.0-1
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgtk2.0-cil is already the newest version.
+libgtkgl2.0-1 is already the newest version.
+libgtk2.0-0 is already the newest version.
+libgtk2.0-bin is already the newest version.
+libgtk2.0-common is already the newest version.
+libgtk2.0-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgtkgl2.0-dev libgtkglext1 libgtkglext1-dev libglademm-2.4-dev libgtkmm-2.4-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgtkmm-2.4-dev is already the newest version.
+libglademm-2.4-dev is already the newest version.
+libgtkgl2.0-dev is already the newest version.
+libgtkglext1 is already the newest version.
+libgtkglext1-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgnomecanvas2-dev libgtkglext1 libgtkglext1-dev libgtkglext1-doc libgnomecanvasmm-2.6-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgnomecanvas2-dev is already the newest version.
+libgnomecanvasmm-2.6-dev is already the newest version.
+libgtkglext1 is already the newest version.
+libgtkglext1-dev is already the newest version.
+libgtkglext1-doc is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgnomecanvasmm-2.6-1c2a libgtkglextmm-x11-1.2-0 libgtkglextmm-x11-1.2-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgnomecanvasmm-2.6-1c2a is already the newest version.
+libgtkglextmm-x11-1.2-0 is already the newest version.
+libgtkglextmm-x11-1.2-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgoocanvasmm-2.0-6 libgoocanvasmm-2.0-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgoocanvasmm-2.0-6 is already the newest version.
+libgoocanvasmm-2.0-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgsl0ldbl libgsl0-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgsl0-dev is already the newest version.
+libgsl0ldbl is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libxml++2.6-2 libxml++2.6-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libxml++2.6-2 is already the newest version.
+libxml++2.6-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libeigen3-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libeigen3-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libgstreamer-plugins-base0.10-dev is already the newest version.
+libgstreamer0.10-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install ice35-slice ice35-translators libzeroc-ice35-dev ice35-services
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+ice35-services is already the newest version.
+ice35-slice is already the newest version.
+ice35-translators is already the newest version.
+libzeroc-ice35-dev is already the newest version.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libopencv-calib3d-dev libopencv-contrib-dev libopencv-core-dev libopencv-features2d-dev libopencv-flann-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libopencv-calib3d-dev is already the newest version.
+libopencv-calib3d-dev set to manually installed.
+libopencv-contrib-dev is already the newest version.
+libopencv-contrib-dev set to manually installed.
+libopencv-core-dev is already the newest version.
+libopencv-core-dev set to manually installed.
+libopencv-features2d-dev is already the newest version.
+libopencv-features2d-dev set to manually installed.
+libopencv-flann-dev is already the newest version.
+libopencv-flann-dev set to manually installed.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libopencv-gpu-dev libopencv-highgui-dev libopencv-imgproc-dev libopencv-legacy-dev libopencv-ml-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libopencv-gpu-dev is already the newest version.
+libopencv-gpu-dev set to manually installed.
+libopencv-highgui-dev is already the newest version.
+libopencv-highgui-dev set to manually installed.
+libopencv-imgproc-dev is already the newest version.
+libopencv-imgproc-dev set to manually installed.
+libopencv-legacy-dev is already the newest version.
+libopencv-legacy-dev set to manually installed.
+libopencv-ml-dev is already the newest version.
+libopencv-ml-dev set to manually installed.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+ishitva@ishitva-PC:~/Documents/gsoc$ sudo apt-get install libopencv-objdetect-dev libopencv-video-dev libcv-dev libcvaux-dev libhighgui-dev
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+libcv-dev is already the newest version.
+libcv-dev set to manually installed.
+libcvaux-dev is already the newest version.
+libcvaux-dev set to manually installed.
+libhighgui-dev is already the newest version.
+libhighgui-dev set to manually installed.
+libopencv-objdetect-dev is already the newest version.
+libopencv-objdetect-dev set to manually installed.
+libopencv-video-dev is already the newest version.
+libopencv-video-dev set to manually installed.
+The following packages were automatically installed and are no longer required:
+  aglfn gnuplot-x11 java-common libarpack2 libcxsparse3.1.2 libfltk-gl1.3
+  libfltk1.3 libgl2ps0 libglpk36 libgraphicsmagick++3 libgraphicsmagick3
+  libhdf5-7 libintl-perl liblua5.1-0 libmagick++5 liboctave2 libplot2c2
+  libpstoedit0c2a libqhull6 libqrupdate1 libqscintilla2-11 libqscintilla2-l10n
+  libtext-unidecode-perl libxcb-xf86dri0 libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-parser-perl libxml-sax-base-perl
+  libxml-sax-expat-perl libxml-sax-perl octave-common pstoedit texinfo
+  tzdata-java
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.

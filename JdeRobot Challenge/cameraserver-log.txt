@@ -1,0 +1,6 @@
+ishitva@ishitva-PC:~/Documents/gsoc/JdeRobot$ cd src/stable/components/cameraserver/
+ishitva@ishitva-PC:~/Documents/gsoc/JdeRobot/src/stable/components/cameraserver$ ./cameraserver --Ice.Config=cameraserver.cfg
+Constructor CameraI -> CameraSrv.Camera.0.
+URI: 0
+safeThread
+33

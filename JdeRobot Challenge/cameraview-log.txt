@@ -1,0 +1,3 @@
+ishitva@ishitva-PC:~/Documents/gsoc/JdeRobot/src/stable/components/cameraserver$ cd ../cameraview
+ishitva@ishitva-PC:~/Documents/gsoc/JdeRobot/src/stable/components/cameraview$ ./cameraview --Ice.Config=cameraview.cfg
+Loading glade

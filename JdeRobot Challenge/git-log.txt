@@ -1,0 +1,8 @@
+ishitva@ishitva-PC:~/Documents/gsoc$ git clone https://github.com/imaitray/JdeRobot.git
+Cloning into 'JdeRobot'...
+remote: Counting objects: 11744, done.
+remote: Compressing objects: 100% (28/28), done.
+remote: Total 11744 (delta 7), reused 0 (delta 0), pack-reused 11716
+Receiving objects: 100% (11744/11744), 50.11 MiB | 892.00 KiB/s, done.
+Resolving deltas: 100% (7592/7592), done.
+Checking connectivity... done.
